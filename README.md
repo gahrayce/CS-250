@@ -17,7 +17,7 @@ Q: How do I approach developing programs? What Agile processes do I hope to inco
 
 
 
-Q: hat does it mean to be a good team member in software development?
+Q: What does it mean to be a good team member in software development?
 
 > A good team member:
 > [if a developer,] fixes buggy code without consideration to whomever erred. Responsibility for the integrity of the code is every developer's job.
